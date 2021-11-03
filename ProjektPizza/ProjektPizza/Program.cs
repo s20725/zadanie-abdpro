@@ -8,6 +8,7 @@ namespace ProjektPizza
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
